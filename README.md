@@ -15,3 +15,17 @@ Demonstrating a simple API using .NET and Entity Framework with data about touri
 <p align="center">
   <img src="/images/tableExamples.png" />
 </p>
+
+## API Endpoints
+<p align="center">
+  <img src="/images/APIEndpoint.png" />
+</p>
+
+## Endpoint Examples
+<p align="center">
+  <img src="/images/table1.png" />
+</p>
+<p align="center">
+  <img src="/images/table2.png" />
+</p>
+

@@ -10,3 +10,8 @@ Demonstrating a simple API using .NET and Entity Framework with data about touri
 <p align="center">
   <img src="/images/databaseTables.png" />
 </p>
+
+## Table Examples
+<p align="center">
+  <img src="/images/tableExamples.png" />
+</p>
